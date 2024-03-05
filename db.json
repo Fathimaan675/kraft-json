@@ -1,0 +1,29 @@
+{
+  "Products": [
+    {
+      "id": "3686",
+      "productname": "wooden",
+      "imageURL": "https://5.imimg.com/data5/IZ/VJ/FG/SELLER-418706/wrought-iron-birds-ans-nest-wall-art-500x500.JPG",
+      "price": "3000"
+    },
+    {
+      "id": "ace6",
+      "productname": "foto-grafier",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlhrqPFxGIvy3Mry1Z4UAczrHfzRSHbY_FQ&usqp=CAU",
+      "price": "200"
+    },
+    {
+      "id": "588f",
+      "productname": "kaka jiji handicraft",
+      "imageURL": "https://www.gayona.com/products/sub-kategori2/animal-wood-carving.jpg",
+      "price": "450"
+    },
+    {
+      "id": "a9f0",
+      "productname": "azsxdcfvgb",
+      "imageURL": "azsxdcfvgbh",
+      "price": "AZSXDRCFTVG"
+    }
+  ],
+  "Cart": []
+}
